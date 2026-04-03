@@ -13,6 +13,8 @@
 <br/>
 
 ![](https://img.shields.io/badge/🟢%20Open%20to%20Work-AI%20Engineer%20·%20MLOps%20·%20Data%20Scientist-2ea44f?style=flat-square)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=glenlouis8&color=5B8CFF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -235,6 +237,12 @@ An end-to-end fine-tuning, evaluation, and deployment pipeline for Llama-3.2-3B-
 
 <div align="center">
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=glenlouis8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glenlouis8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenlouis8&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -243,6 +251,12 @@ An end-to-end fine-tuning, evaluation, and deployment pipeline for Llama-3.2-3B-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=glenlouis8&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/glenlouis8/glenlouis8/output/github-snake-dark.svg)
 
 </div>
 
