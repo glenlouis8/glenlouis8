@@ -204,8 +204,8 @@ Two-stage QLoRA post-training pipeline on Qwen2.5-7B over FinQA SEC filings — 
 
 **⚙️ Data Quality Engineer** · Wipro Technologies · Bengaluru, India *(May 2022–Aug 2024)*
 - Engineered Python automation suite replacing manual auditing across SQL Server → Snowflake migrations feeding downstream ML pipelines — programmatic validation of row counts, schema parity, and type consistency
-- Implemented source-to-target data integrity checks ensuring **100%** structural accuracy across full pipeline; reconciled Power BI KPIs against Snowflake ground truth to validate ML-consumed aggregates
-- Directed sub-team of 2 on SQL development and validation methodology; conducted technical reviews of test scenarios and automated validation scripts
+- Implemented source-to-target data integrity checks ensuring **100%** structural accuracy across full pipeline, validating data feeding downstream ML and analytics consumers
+- Supervised 2 on SQL development and validation methodology; conducted technical reviews of test scenarios and automated validation scripts
 
 ---
 
