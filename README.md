@@ -26,7 +26,7 @@ I'm an **AI Engineer** who builds things that work in production — not just de
 
 I specialize in **autonomous agentic AI systems**: multi-agent workflows, self-correcting RAG pipelines, and LLM-powered automation using **LangGraph** and **Model Context Protocol (MCP)**. This is a rare and fast-growing specialization — most engineers know how to call an LLM API; I know how to architect systems where multiple AI agents plan, collaborate, self-correct, and recover from failure.
 
-My background in **Data Reliability Engineering at Wipro** (2 years, Bengaluru) means I think about AI differently than most: I've seen data pipelines fail at scale, and I build AI systems that don't. I recently completed my **M.S. in Data Science at the University at Buffalo** (Dec 2025) and I'm ready to bring this combination of production discipline and cutting-edge AI engineering to a team.
+My background in **Data Reliability Engineering at Wipro** (2 years, Bengaluru) means I think about AI differently than most: I've seen data pipelines fail at scale, and I build AI systems that don't. I recently completed my **M.S. in Data Science at the University at Buffalo** (Jan 2026) and I'm ready to bring this combination of production discipline and cutting-edge AI engineering to a team.
 
 ---
 
@@ -211,7 +211,7 @@ Two-stage QLoRA post-training pipeline on Qwen2.5-7B over FinQA SEC filings — 
 
 ## 🎓 Education & Certifications
 
-🎓 **M.S. Data Science** — University at Buffalo, SUNY *(Dec 2025)*
+🎓 **M.S. Data Science** — University at Buffalo, SUNY *(Jan 2026)*
 🎓 **B.Tech Electronics & Communication** — VTU, India *(Jun 2022)*
 🏅 **Introduction to Model Context Protocol · Claude 101 · Claude Code 101** — Anthropic
 🏅 **AI Engineering Core Track** — Udemy
